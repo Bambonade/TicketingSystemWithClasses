@@ -2,7 +2,7 @@
 using System.IO;
 using NLog.Web;
 
-namespace TicketSystemSearch
+namespace TicketingSystemWithClasses
 {
     class Program
     {
